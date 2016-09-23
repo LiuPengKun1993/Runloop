@@ -5,4 +5,4 @@
 ### 2.图片刷新, 在 tableView 中进行;
 ### 3.设置 GCD 定时器;
 ### 4.添加观察者;
-### 5.RunLoopMode 切换.
+### 5.RunloopMode 切换.
